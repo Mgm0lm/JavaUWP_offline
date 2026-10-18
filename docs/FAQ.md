@@ -12,9 +12,6 @@ Crash and usage reporting is off until you switch it on. When it is on it sends 
 ## How do I turn crash reporting off?
 Answer Never when the launcher asks, or change it later in the launcher. You can also reset your install ID from there, which generates a new random one and clears anything still waiting to send.
 
-## Do I need a Java account?
-Bandit Launcher requires a valid copy of Minecraft: Java Edition. The launcher does not condone piracy or redistribution of the game, but rather only makes it playable to legal users.
-
 ## My Minecraft account won't sign in!
 If you have Minecraft through Game Pass, you need to create an account on minecraft.net and set a player name.
 
@@ -40,9 +37,3 @@ Remote Files is plain HTTP on your local network, and the PIN sits in the URL, s
 
 ## How do I check crash reports?
 Open Bandit Launcher, start Remote Files, and go to the crash reports directory.
-
-## Is this vibecoded?
-Bandit Launcher is not vibecoded. However, certain comments have been as they're hard to write. The agent files have been added specifically to prevent forks from removing the authentication above.
-
-## Other launchers?
-As of 09/03/2026, *no* other launchers exist that haven't been mostly vibecoded. Please use them at your own risk. (As a reminder, vibecoded projects *are* unsafe to your devices. Also, obtain actual evidence of AI before accusing other people of vibecoding their projects. All launchers created after this date are unknown.)

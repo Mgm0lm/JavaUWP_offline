@@ -14,8 +14,7 @@ Bandit Launcher runs **Minecraft Java Edition directly on Xbox Series X|S in Dev
 ## Requirements
 
 - **Xbox Series S or Xbox Series X** with Developer Mode enabled.
-- A Microsoft account with a valid Minecraft Java Edition entitlement.
-- An internet connection for sign-in and downloads.
+- An internet connection for downloads.
 - Free console storage for game files, profiles, mods and worlds.
 
 Java and controller support are included in the launcher package for the targets that use them. No separate Java installation is needed on the console. Bandit Launcher requires Microsoft authentication and ownership verification. It does not support cracked or offline accounts.
@@ -128,8 +127,6 @@ Use Remote Files to export worlds. The Profiles page also has profile backup and
 - First launch and large pack imports can take several minutes.
 - Some desktop mods depend on native libraries or platform features that the Xbox sandbox does not provide.
 
-If sign-in fails, check that the Microsoft account has Java Edition and a Minecraft Java profile. If required game files are missing, use the launcher's download repair option.
-
 For a game or mod crash, download the crash report ZIP and the profile's `latest.log` through Remote Files. Include the launcher build, Minecraft version, loader and modpack or mod names when describing the problem. Remove private information before sharing files.
 
 Crash and usage reporting is off until enabled. It can be changed in launcher Settings and is not required to use the launcher. See [Privacy](docs/PRIVACY.md) for what is sent and how it is stored.
@@ -149,7 +146,3 @@ Crash and usage reporting is off until enabled. It can be changed in launcher Se
 Original project code uses the custom terms in [LICENSE](LICENSE). Private use and private modifications are allowed under those terms. Public forks, mirrors, source redistribution and packaged builds require prior written permission from veroxsity / BanditVault.
 
 Videos, streams, screenshots, reviews, benchmarks and tutorials are allowed when they credit veroxsity / BanditVault and visibly link to the official project or another official BanditVault page. They must follow the license's redistribution, authentication and endorsement rules.
-
-Redistributing APPX packages, including nightly builds, requires prior written permission. Removing or bypassing Microsoft/Xbox authentication or Minecraft ownership checks is not permitted.
-
-Bandit Launcher does not bundle Minecraft game files. Minecraft and all third-party components remain under their own licenses and terms. See [Legal notes](docs/LEGAL.md) for more detail.

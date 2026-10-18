@@ -36,15 +36,6 @@ tutorials, and videos of this project, provided that:
    provide generated APPX packages, binaries, source archives, modified source
    copies, private builds, or other project files that are not otherwise
    permitted by this license.
-3. The content does not provide instructions, patches, scripts, configuration,
-   binaries, links, or other material intended to remove, bypass, disable,
-   weaken, stub, fake, or make optional Microsoft/Xbox authentication,
-   Minecraft ownership verification, token validation, account checks, or
-   entitlement enforcement.
-4. The content does not imply that veroxsity / BanditVault, Microsoft, Mojang,
-   Xbox, Minecraft, Fabric, Forge, NeoForge, LWJGL, Mesa, or any other third
-   party sponsors, endorses, or approves the content unless that permission has
-   been given separately.
 
 Any fork, mirror, hosted copy, backup repository, or modified source repository
 created under this license must remain private unless veroxsity / BanditVault

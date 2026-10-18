@@ -20,9 +20,6 @@ In short:
 - Public forks, public mirrors, public source archives, and public modified copies are not permitted without prior written permission.
 - Videos, streams, screenshots, reviews, benchmarks, tutorials, and other creator content are allowed when they follow the attribution, redistribution, endorsement, and authentication rules in `LICENSE`.
 - Public creator content based on the project must include credit and a visible link back to veroxsity / BanditVault.
-- Redistribution requires prior written permission from veroxsity / BanditVault.
-- Removing, bypassing, disabling, stubbing, faking, or making optional Microsoft/Xbox authentication or Minecraft entitlement checks is not permitted.
-- Patches, instructions, builds, or configuration intended to bypass authentication or ownership verification are not permitted.
 - External components keep their own licenses and terms.
 
 ## Pre Release And Nightly Packages
@@ -32,8 +29,6 @@ Generated APPX packages, including nightly and pre release packages, may not be 
 Nightly and pre release packages are testing builds. They are not full releases, and support is not provided for them.
 
 Public videos, streams, screenshots, reviews, benchmarks, tutorials, install guides, and similar public walkthroughs are allowed when they follow the creator content rules in `LICENSE`.
-
-Unofficial builds that remove or bypass authentication, ownership checks, or entitlement enforcement are not permitted.
 
 ## Local files
 
